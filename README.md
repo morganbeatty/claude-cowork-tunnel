@@ -63,4 +63,4 @@ MIT — use it however you want.
 
 ## Author
 
-Morgan Beatty — [promptevolver.io](https://promptevolver.io)
+Morgan Beatty — (https://www.morganbeatty.com)

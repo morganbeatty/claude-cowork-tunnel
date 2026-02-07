@@ -1,4 +1,4 @@
-# Claude Cowork Tunnel
+# Claude Cowork Context Tunnel
 
 A Claude skill that bridges Chat reasoning to Cowork execution.
 

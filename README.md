@@ -1,4 +1,4 @@
-# Cowork Tunnel
+# Claude Cowork Context Tunnel
 
 A Claude skill that bridges Chat reasoning to Cowork execution.
 
@@ -63,4 +63,4 @@ MIT — use it however you want.
 
 ## Author
 
-Morgan Beatty — [promptevolver.io](https://promptevolver.io)
+Morgan Beatty — (https://www.morganbeatty.com)
